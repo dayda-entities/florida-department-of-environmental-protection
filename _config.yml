@@ -12,7 +12,7 @@ source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
 profile_pic: >-
-  https://upload.wikimedia.org/wikipedia/commons/1/14/Florida_Department_of_Environmental_Protection.png
+  https://directory.dayda.org/assets/img/entities/florida-department-of-environmental-protection.png
 favicon: /assets/img/favicon.png
 url: 'http://florida-department-of-environmental-protection.dayda.org'
 encoding: utf-8
